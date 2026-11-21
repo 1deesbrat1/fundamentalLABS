@@ -1,0 +1,6 @@
+Ivanov;Ivan;Ivanovich;15.06.2003;M;45000.50
+Petrova;Anna;;20.05.2005;W;52000
+Sidorov;Petr;Sergeevich;10.01.2000;M;38000.25
+Smirnov;Alexey;;01.02.2004;M;0
+Kuznetsova;Maria;Petrovna;29.02.2004;W;71000
+Volkov;Oleg;;20.05.2005;M;32000

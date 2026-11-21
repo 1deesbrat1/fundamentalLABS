@@ -1,0 +1,12 @@
+10;Ivan;Petrov;M8O-101;5;4;5;4;5
+3;Anna;Ivanova;M8O-102;4;4;4;5;3
+7;Petr;Sidorov;M8O-101;3;3;4;3;2
+25;Maria;Petrova;M8O-103;5;5;5;5;5
+10;Alex;Petrov;M8O-102;3;4;3;4;3
+0;Ivan;Smirnov;M8O-101;2;2;3;2;2
+42;Olga;Morozova;M8O-103;4;5;4;5;4
+8;Nikita;Sokolov;M8O-101;3;4;4;4;5
+18;Anna;Belova;M8O-102;5;5;4;5;5
+1;Denis;Volkov;M8O-104;2;3;3;2;3
+90;Eva;Ivanova;M8O-103;4;4;4;4;4
+15;Roman;Fedorov;M8O-104;3;3;3;3;3

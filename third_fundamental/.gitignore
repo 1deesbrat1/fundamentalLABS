@@ -1,0 +1,17 @@
+.DS_Store
+*.dSYM/
+
+7
+first
+second
+third
+third_san
+four
+five
+seven
+eight
+nine
+ten
+
+result.txt
+trace1.txt
